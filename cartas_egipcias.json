@@ -1,0 +1,191 @@
+[
+  {
+    "numero": 1,
+    "nombre": "El Mago",
+    "significado": "Representa el inicio de todo. Energía creadora, voluntad y poder mental.",
+    "elemento": "Aire",
+    "planeta": "Mercurio",
+    "palabra_clave": "Voluntad",
+    "mensaje": "Tú tienes el poder de crear tu realidad. Usa tus herramientas con conciencia."
+  },
+  {
+    "numero": 2,
+    "nombre": "La Sacerdotisa",
+    "significado": "Conexión con lo oculto, intuición, sabiduría interna.",
+    "elemento": "Agua",
+    "planeta": "Luna",
+    "palabra_clave": "Misterio",
+    "mensaje": "Escucha tu voz interior. Las respuestas están en el silencio."
+  },
+  {
+    "numero": 3,
+    "nombre": "La Emperatriz",
+    "significado": "Fertilidad, creatividad, abundancia, expresión del alma.",
+    "elemento": "Tierra",
+    "planeta": "Venus",
+    "palabra_clave": "Creación",
+    "mensaje": "Nutre tus ideas, dales amor, y florecerán."
+  },
+  {
+    "numero": 4,
+    "nombre": "El Emperador",
+    "significado": "Estabilidad, estructura, autoridad, orden.",
+    "elemento": "Fuego",
+    "planeta": "Marte",
+    "palabra_clave": "Dominio",
+    "mensaje": "Afirma tu poder con responsabilidad. Ordena tu mundo interno."
+  },
+  {
+    "numero": 5,
+    "nombre": "El Sumo Sacerdote",
+    "significado": "Sabiduría espiritual, guía, maestro interno.",
+    "elemento": "Éter",
+    "planeta": "Júpiter",
+    "palabra_clave": "Sabiduría",
+    "mensaje": "Confía en tu conocimiento interno. Sé guía para otros."
+  },
+  {
+    "numero": 6,
+    "nombre": "Los Enamorados",
+    "significado": "Decisión, amor, dualidad, unión de opuestos.",
+    "elemento": "Aire",
+    "planeta": "Mercurio",
+    "palabra_clave": "Elección",
+    "mensaje": "Elige desde el corazón. Honra tu camino con amor."
+  },
+  {
+    "numero": 7,
+    "nombre": "El Carro",
+    "significado": "Victoria sobre obstáculos, movimiento, conquista.",
+    "elemento": "Agua",
+    "planeta": "Luna",
+    "palabra_clave": "Triunfo",
+    "mensaje": "Sigue adelante con determinación. El éxito está en tu control."
+  },
+  {
+    "numero": 8,
+    "nombre": "La Justicia",
+    "significado": "Equilibrio, karma, ley divina, orden cósmico.",
+    "elemento": "Aire",
+    "planeta": "Saturno",
+    "palabra_clave": "Equilibrio",
+    "mensaje": "Actúa con verdad y equilibrio. Recoge lo que siembras."
+  },
+  {
+    "numero": 9,
+    "nombre": "El Ermitaño",
+    "significado": "Búsqueda interior, retiro, reflexión.",
+    "elemento": "Tierra",
+    "planeta": "Saturno",
+    "palabra_clave": "Introspección",
+    "mensaje": "La luz que buscas está dentro de ti. Permanece en silencio."
+  },
+  {
+    "numero": 10,
+    "nombre": "La Rueda de la Fortuna",
+    "significado": "Destino, cambio, ciclos, oportunidad.",
+    "elemento": "Fuego",
+    "planeta": "Júpiter",
+    "palabra_clave": "Cambio",
+    "mensaje": "Acepta el cambio. El destino gira a tu favor cuando fluyes."
+  },
+  {
+    "numero": 11,
+    "nombre": "La Fuerza",
+    "significado": "Dominio interno, control del instinto, poder espiritual.",
+    "elemento": "Fuego",
+    "planeta": "Sol",
+    "palabra_clave": "Valentía",
+    "mensaje": "Tu verdadero poder está en la suavidad con que enfrentas la vida."
+  },
+  {
+    "numero": 12,
+    "nombre": "El Colgado",
+    "significado": "Sacrificio, pausa, nueva perspectiva, rendición.",
+    "elemento": "Agua",
+    "planeta": "Neptuno",
+    "palabra_clave": "Rendición",
+    "mensaje": "Ríndete al momento. Verás el mundo desde una nueva luz."
+  },
+  {
+    "numero": 13,
+    "nombre": "La Muerte",
+    "significado": "Transformación profunda, fin de una etapa, renacimiento.",
+    "elemento": "Agua",
+    "planeta": "Plutón",
+    "palabra_clave": "Renacer",
+    "mensaje": "Muere lo viejo para que nazca lo nuevo. Renace desde tu verdad."
+  },
+  {
+    "numero": 14,
+    "nombre": "La Templanza",
+    "significado": "Equilibrio emocional, sanación, armonía.",
+    "elemento": "Agua",
+    "planeta": "Sagitario",
+    "palabra_clave": "Moderación",
+    "mensaje": "Encuentra el punto medio. La armonía es tu medicina."
+  },
+  {
+    "numero": 15,
+    "nombre": "El Diablo",
+    "significado": "Ataduras, deseo, sombra, esclavitud interior.",
+    "elemento": "Tierra",
+    "planeta": "Capricornio",
+    "palabra_clave": "Dominio",
+    "mensaje": "Reconoce tus cadenas. La libertad empieza en tu conciencia."
+  },
+  {
+    "numero": 16,
+    "nombre": "La Torre",
+    "significado": "Ruptura, revelación, destrucción necesaria.",
+    "elemento": "Fuego",
+    "planeta": "Marte",
+    "palabra_clave": "Despertar",
+    "mensaje": "Lo que cae no te pertenece más. Reconstruye sobre la verdad."
+  },
+  {
+    "numero": 17,
+    "nombre": "La Estrella",
+    "significado": "Esperanza, guía espiritual, inspiración divina.",
+    "elemento": "Aire",
+    "planeta": "Urano",
+    "palabra_clave": "Esperanza",
+    "mensaje": "Confía en tu luz. Eres la guía en tu propio camino."
+  },
+  {
+    "numero": 18,
+    "nombre": "La Luna",
+    "significado": "Misterios, emociones ocultas, ilusiones.",
+    "elemento": "Agua",
+    "planeta": "Luna",
+    "palabra_clave": "Intuición",
+    "mensaje": "Abraza tus emociones. La verdad se revela en la oscuridad."
+  },
+  {
+    "numero": 19,
+    "nombre": "El Sol",
+    "significado": "Éxito, claridad, vitalidad, realización.",
+    "elemento": "Fuego",
+    "planeta": "Sol",
+    "palabra_clave": "Brillo",
+    "mensaje": "Brilla sin miedo. Tu luz inspira al mundo."
+  },
+  {
+    "numero": 20,
+    "nombre": "El Juicio",
+    "significado": "Despertar, liberación, nuevo propósito.",
+    "elemento": "Fuego",
+    "planeta": "Plutón",
+    "palabra_clave": "Renovación",
+    "mensaje": "Escucha el llamado de tu alma. Es momento de renacer."
+  },
+  {
+    "numero": 21,
+    "nombre": "El Mundo",
+    "significado": "Culminación, éxito total, integración, unidad.",
+    "elemento": "Éter",
+    "planeta": "Saturno",
+    "palabra_clave": "Plenitud",
+    "mensaje": "Eres uno con el universo. Has completado el viaje."
+  }
+]
